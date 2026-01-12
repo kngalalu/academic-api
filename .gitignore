@@ -1,0 +1,14 @@
+# virtual environment
+.venv/
+
+# environment variables
+.env
+
+# python cache
+__pycache__/
+*.pyc
+academic-api\app\__pycache__
+academic-api\app\routers\__pycache__
+
+# sqlite database
+*.db
