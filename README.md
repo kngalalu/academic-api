@@ -7,6 +7,12 @@
 - OAuth2 + JWT authentication
 - Passlib (bcrypt)
 - python-dotenv
+- python-jose[cryptography]
+- uvicorn==0.29.0
+- python-jose==3.3.0
+- passlib[bcrypt]==1.7.4
+- pydantic[email]
+- python-multipart
 
 ## Setup Instructions
 
